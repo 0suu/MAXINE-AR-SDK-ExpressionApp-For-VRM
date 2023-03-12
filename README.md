@@ -4,6 +4,7 @@ https://github.com/NVIDIA/MAXINE-AR-SDK のExpresionApp.cppを置き換えてビ
 ExpressionAppからUDPでUnity側にトラッキングした値が送信される。
 
 Lisence
+
 ・https://github.com/NVIDIA/MAXINE-AR-SDK/blob/master/LICENSE
 
 ・https://github.com/vrm-c/UniVRM/blob/master/LICENSE.txt
