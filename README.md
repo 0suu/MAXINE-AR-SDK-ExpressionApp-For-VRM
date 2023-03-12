@@ -1,6 +1,6 @@
 # MAXINE-AR-SDK-ExpressionApp-For-VRM
 
-https://github.com/NVIDIA/MAXINE-AR-SDKのExpresionApp.cppを置き換えてビルドする。
+https://github.com/NVIDIA/MAXINE-AR-SDK のExpresionApp.cppを置き換えてビルドする。
 ExpressionAppからUDPでUnity側にトラッキングした値が送信される。
 
 Lisence
