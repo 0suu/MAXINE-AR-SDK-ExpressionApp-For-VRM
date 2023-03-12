@@ -5,4 +5,5 @@ ExpressionAppからUDPでUnity側にトラッキングした値が送信され�
 
 Lisence
 ・https://github.com/NVIDIA/MAXINE-AR-SDK/blob/master/LICENSE
+
 ・https://github.com/vrm-c/UniVRM/blob/master/LICENSE.txt
