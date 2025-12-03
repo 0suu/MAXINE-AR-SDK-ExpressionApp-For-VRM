@@ -1,0 +1,10 @@
+{
+  "ModuleId": "d9a2b4c2-6cda-4f4e-94f2-6bd8f6c9944c",
+  "AuthorName": "MAXINE-AR-SDK-ExpressionApp-For-VRM",
+  "DllFileName": "VRCFaceTracking.MaxineAR.dll",
+  "ModuleDescription": "Maxine AR SDK からの表情・視線データを VRCFaceTracking に流し込むモジュール",
+  "ModuleName": "VRCFaceTracking.MaxineAR",
+  "ModulePageUrl": "",
+  "DownloadUrl": "",
+  "Version": "0.1.0"
+}
